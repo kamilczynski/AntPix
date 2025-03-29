@@ -4,6 +4,7 @@ Project Description
 AntPix is a GUI-based Python application that enables users to crop images in bulk effortlessly. With its intuitive interface and futuristic neon-inspired design, AntPix allows you to select multiple images, set custom crop values (for left, top, right, and bottom edges), and save the processed images to a designated folder. Whether you're preparing images for machine learning datasets, web content, or personal projects, AntPix streamlines the cropping process while providing robust error handling and feedback.
 
 Key Features
+
 ✅ Batch Image Cropping – Crop several images at once with just a few clicks.
 
 ✅ Custom Crop Parameters – Specify pixel values to trim the left, top, right, and bottom parts of each image.
